@@ -1,0 +1,15 @@
+{
+	"name": "expressroutingexercises",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"test": "jest --coverage"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.18.2"
+	}
+}
